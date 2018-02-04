@@ -3,17 +3,51 @@ body {
 }
 
 h1 {
-
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
 }
 
 .nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.secondheader {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weght: bold;
+  color: white;
+  background-image:url("/Applications/Broadway/resources/images/Broadwaybldg.png");
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.trademark {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align:left;
+}
+
+.header {
   background-image: url("/Applications/Broadway/resources/images/Broadwaybldg.png");
-}
-
-.h2 {
-
-}
-
-.h3 {
-
 }
